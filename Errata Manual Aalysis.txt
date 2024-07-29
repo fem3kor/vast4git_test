@@ -1,0 +1,133 @@
+Errata Sheet:5652 (Manual Analysis)
+----------------------------------------------------------------------
+
+1. Abs9CBCore1_ECU_CSW_BB92375__1.3
+SspWss_WheelSpeedCalculation__'V6.0.115.0'; - 
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled and the expression contains only one operator)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(expression is not assigned to an udisc/sdisc/cont variable)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+2. Abs9CBCore1_ECU_CSW_BB92462__10.1
+SspWss_WheelSpeedCalculation__'V6.0'; -
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled and the expression contains only one operator)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(expression is not assigned to an udisc/sdisc/cont variable)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled and the expression contains only one operator)
+
+3. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.20 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+4. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.20.1.0 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+5. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.20.3.1.1.9 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+6. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.20.3.2 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+7. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.20.3.3 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+8. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.20.3.4 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+9. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.26 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+10. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.33 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+11. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.40 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+12. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.46 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+13. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.48 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+14. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.51.1.0 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+15. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.51.1.3 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+16. ApbMiGen2_ECU_CSW_BB00001__1.1.147305.51.1.4 - Not Affected(Limit Assignments/Limit to max bit length is enabled)
+
+17. AudiC7PAEsp_ECU_CSW_BB91078__40.1
+Not Affected(Expression does not contains more than one operator)
+Pending...
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled and Expression does not contains more than one operator)
+Not Affected(Limit Assignments/Limit to max bit length is enabled and Expression does not contains more than one operator)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Pending...
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Limit Assignments/Limit to max bit length is enabled)
+Not Affected(Expression is assigned to an udisc/sdisc/cont variable)
+
+18. AudiC7PAMaske2Esp_ECU_CSW_BB92758__57.31
+
+
+19. AudiMLBevoCRBpHev_ECU_CSW_BB00000__3.14
+
+20. AudiMLBevoEsp_ECU_CSW_BB90751__50.6.1.7
+
+21. AudiMLBevoEsp_ECU_CSW_BB90751__50.6.1.12.2.0
+
+22. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
